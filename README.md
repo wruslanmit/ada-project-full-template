@@ -19,7 +19,7 @@ the folder for system generated files in compiling, binding and linking processe
 ## src 
 the folder for the main executable program and sub-directories for user-created Ada packages.
 
-### Examples of user-created Ada packages
+### Examples of user-created Ada packages in src folder
 
 pkg-ada-datetime-stamp
 
